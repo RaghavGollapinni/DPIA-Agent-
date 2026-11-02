@@ -1,7 +1,5 @@
 sentence-transformers
-transformers
-torch
 faiss-cpu
 numpy
-pandas
 python-docx
+pytest
